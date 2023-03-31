@@ -91,3 +91,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# graphics
+./project/code/graphics/
